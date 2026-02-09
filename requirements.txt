@@ -1,0 +1,5 @@
+Pillow>=10.0.0
+fpdf2>=2.7.0
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+keyboard>=0.13.5

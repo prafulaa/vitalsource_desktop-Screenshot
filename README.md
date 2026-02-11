@@ -44,3 +44,9 @@ A Python tool to capture pages from the VitalSource Bookshelf desktop applicatio
 ## Disclaimer
 
 This software is for personal use and backup purposes only. Please respect copyright laws and VitalSource terms of service. Only use this for books you have legally purchased.
+
+## Troubleshooting
+
+- **Window Not Found**: Make sure you have the **VitalSource Bookshelf Desktop Application** installed and open. This tool does **NOT** work with the web browser reader.
+- **Offsets are wrong**: If the mouse clicks the wrong place, try re-setting the "Next Button" location. Ensure your display scaling (DPI) is consistent or set to 100% if you have issues.
+- **Screenshots are black**: Ensure the Bookshelf app is not minimized when capturing.

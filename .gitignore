@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Generated files
+temp_book_pages/
+*.pdf
+debug_screenshot.png
+
+# IDE
+.vscode/
+.idea/
